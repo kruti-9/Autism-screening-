@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+sklearn
+matplotlib
+torch
+joblib
+-e .
